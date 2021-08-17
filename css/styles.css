@@ -1539,7 +1539,7 @@ a:hover.back-to-top {
 
 .ex-basic-1 .text-box {
     padding: 1.25rem 1.25rem 0.5rem 1.25rem;
-    background-color: #423f52;
+    background-color: #52A2FD;
 }
 
 .ex-basic-1 .text-box .text-box-icon {
@@ -2414,4 +2414,8 @@ input {
 
 .spacer {
     height: 2000px;
+}
+
+.ex-basic-1 .text-box p {
+    color: white;
 }
